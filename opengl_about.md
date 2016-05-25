@@ -19,3 +19,10 @@
 - 混合
 - 抖动
 - 逻辑操作
+
+
+### glMatrixMode()
+- GL_TEXTURE 之后对纹理矩阵操作
+- GL_MODELVIEW 之后对模型视景矩阵操作，例如gluLookAt()
+- GL_PROJECTION 之后对投影矩阵操作，例如glFrustum()或gluPerspective()
+

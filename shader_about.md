@@ -6,6 +6,10 @@
 - 创建program
 - 使用program
 - 绑定属性（在glsl 330以后使用in out, 不再使用attribute变量）
+
+	glBindAttribLocation(program, 1, "a_position");
+	uniform 类型的恶变量无需bind。
+
 - 激活
 
 Fall Example:

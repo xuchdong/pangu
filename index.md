@@ -4,3 +4,4 @@
 - [Glut on Xcode](glut_on_xcode.md)
 - [模版测试](stencil_buffer.md)
 - [shader](shader_about.md)
+- [texture](texture_about.md)
